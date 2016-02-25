@@ -1,0 +1,9 @@
+C:\Users\Matheus\Desktop\DeskTop\Projetos\ListaEncadeada\ListaEncadeadaProject\ListaEncadeadaProject\bin\Debug\ListaEncadeadaProject.exe.config
+C:\Users\Matheus\Desktop\DeskTop\Projetos\ListaEncadeada\ListaEncadeadaProject\ListaEncadeadaProject\bin\Debug\ListaEncadeadaProject.exe
+C:\Users\Matheus\Desktop\DeskTop\Projetos\ListaEncadeada\ListaEncadeadaProject\ListaEncadeadaProject\bin\Debug\ListaEncadeadaProject.pdb
+C:\Users\Matheus\Desktop\DeskTop\Projetos\ListaEncadeada\ListaEncadeadaProject\ListaEncadeadaProject\obj\Debug\ListaEncadeadaProject.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\DeskTop\Projetos\ListaEncadeada\ListaEncadeadaProject\ListaEncadeadaProject\obj\Debug\ListaEncadeadaProject.Form1.resources
+C:\Users\Matheus\Desktop\DeskTop\Projetos\ListaEncadeada\ListaEncadeadaProject\ListaEncadeadaProject\obj\Debug\ListaEncadeadaProject.Properties.Resources.resources
+C:\Users\Matheus\Desktop\DeskTop\Projetos\ListaEncadeada\ListaEncadeadaProject\ListaEncadeadaProject\obj\Debug\ListaEncadeadaProject.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\DeskTop\Projetos\ListaEncadeada\ListaEncadeadaProject\ListaEncadeadaProject\obj\Debug\ListaEncadeadaProject.exe
+C:\Users\Matheus\Desktop\DeskTop\Projetos\ListaEncadeada\ListaEncadeadaProject\ListaEncadeadaProject\obj\Debug\ListaEncadeadaProject.pdb
